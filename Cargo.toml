@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "averages",
+    "guessing",
+    "pig_latin",
+    "threads",
+    "twelve_days",
+    "webserver",
+]
